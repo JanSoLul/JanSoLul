@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanSoLul
-- 👀 I’m interested in ...
-  ** Unity Engine **
-  ** Unreal Engine **
+- 👀 I’m interested in ...   
+  * **Unity Engine**   
+  * **Unreal Engine**   
 
 <!---
 JanSoLul/JanSoLul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
